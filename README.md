@@ -70,8 +70,8 @@ Responsive Pokédex using PokéAPI and search/filter functions.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)<br/>
 
 ### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ujstha&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![download](https://github.com/user-attachments/assets/752bb7c5-33e1-4d0b-a78d-c4ad95e38089)
+ 
 
 ### 🏆 GitHub Trophies
 
