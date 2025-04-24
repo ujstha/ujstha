@@ -21,7 +21,7 @@
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
 - 💼 Full-stack developer experienced in web and mobile applications
 - ⚙️ Specializing in React, React Native, Next.js, Node.js, and AWS
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ```bash
 Frontend:   React, TypeScript, Next.js, Vue.js, Tailwind CSS, React Native
@@ -43,50 +43,54 @@ Tools:      Git, GitHub, Figma, Agile, Architecture Planning
 
 ## 🚀 Featured Projects
 
-### 🎨 [Portfolio](https://ujjawalshrestha.com.np)  
+### 🎨 [Portfolio](https://ujjawalshrestha.com.np)
+
 **Tech Stack:** Next.js · Three.js · Sanity · Framer  
 An interactive 3D portfolio showcasing animations and content-driven design.
 
 ---
 
-### ⚡ [TMDbCine](https://tmdb-cine.netlify.app)  
+### ⚡ [TMDbCine](https://tmdb-cine.netlify.app)
+
 **Tech Stack:** Next.js · Express · MongoDB · MERN Stack  
 Movie/TV explorer app with authentication and favorite features.
 
 ---
 
-### 🧪 [Pokedex](https://pokedex-ichooseyou.vercel.app)  
+### 🧪 [Pokedex](https://pokedex-ichooseyou.vercel.app)
+
 **Tech Stack:** Vue.js · REST API · Tailwind  
 Responsive Pokédex using PokéAPI and search/filter functions.
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ujstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ujstha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ujstha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=ujstha&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ujstha&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ujstha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ujstha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=ujstha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
 ## 📬 Let’s Connect
 
-- 📧 **Email:** [ujjawalshrestha7@gmail.com](mailto:ujjawalshrestha7@gmail.com)  
-- 🔗 **Portfolio:** [ujjawalshrestha.com.np](https://ujjawalshrestha.com.np)  
+- 📧 **Email:** [ujjawalshrestha7@gmail.com](mailto:ujjawalshrestha7@gmail.com)
+- 🔗 **Portfolio:** [ujjawalshrestha.com.np](https://ujjawalshrestha.com.np)
 - 💼 **LinkedIn:** [linkedin.com/in/ujjawalshrestha](https://linkedin.com/in/ujjawalshrestha)
 
+---
+
 <p align="center">
-  <b>Thanks for stopping by — let's build something great together!</b>
+  <em>Thanks for stopping by — let's build something great together!</em>
 </p>
