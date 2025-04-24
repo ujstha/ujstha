@@ -62,10 +62,15 @@ Responsive Pokédex using PokéAPI and search/filter functions.
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ujstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ujstha&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Ujjawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujstha&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ujstha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&layout=compact&theme=tokyonight&langs_count=8)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ujstha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
