@@ -72,7 +72,7 @@ Responsive Pokédex using PokéAPI and search/filter functions.
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujstha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ujstha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 
 ---
