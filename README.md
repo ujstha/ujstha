@@ -64,18 +64,16 @@ Responsive Pokédex using PokéAPI and search/filter functions.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujstha&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&layout=compact&theme=tokyonight&langs_count=8" height="160" />
-</p>
+![Ujjawal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujstha&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujstha&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ujstha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="160" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ujstha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 
 ---
 
