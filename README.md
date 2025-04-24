@@ -25,7 +25,6 @@
 
 - 💼 Full-stack developer experienced in web and mobile applications
 - ⚙️ Specializing in React, React Native, Next.js, Node.js, and AWS
-- 🚢 Former ship crew turned developer — adaptable and always learning
 - 🚀 Passionate about clean architecture, performance, and UX
 - 📈 Proven impact: delivered features boosting traffic, performance, and revenue
 
